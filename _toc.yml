@@ -1,0 +1,20 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: content/intro
+parts:
+  - caption: Foundations for Building Private LLM Applications
+    chapters:
+    - file: content/part1/chapter1
+    - file: content/part1/chapter2
+    - file: content/part1/chapter3
+  - caption: Hands-on Engineering with Langchain and LLMs
+    chapters:
+    - file: content/part2/chapter4
+  - caption: Ensuring LLM Security in a Private Data Ecosystem
+    chapters:
+    - file: content/part4/chapter1
+    - file: content/part4/chapter2
+    - file: content/part4/chapter3
+
